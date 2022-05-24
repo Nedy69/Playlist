@@ -1,0 +1,12 @@
+C:\Users\nedyc\source\repos\PlaylistByProchy\PlaylistByProchy\bin\Debug\PlaylistByProchy.exe.config
+C:\Users\nedyc\source\repos\PlaylistByProchy\PlaylistByProchy\bin\Debug\PlaylistByProchy.exe
+C:\Users\nedyc\source\repos\PlaylistByProchy\PlaylistByProchy\bin\Debug\PlaylistByProchy.pdb
+C:\Users\nedyc\source\repos\PlaylistByProchy\PlaylistByProchy\obj\Debug\PlaylistByProchy.csproj.AssemblyReference.cache
+C:\Users\nedyc\source\repos\PlaylistByProchy\PlaylistByProchy\obj\Debug\PlaylistByProchy.csproj.SuggestedBindingRedirects.cache
+C:\Users\nedyc\source\repos\PlaylistByProchy\PlaylistByProchy\obj\Debug\PlaylistByProchy.Form1.resources
+C:\Users\nedyc\source\repos\PlaylistByProchy\PlaylistByProchy\obj\Debug\PlaylistByProchy.Properties.Resources.resources
+C:\Users\nedyc\source\repos\PlaylistByProchy\PlaylistByProchy\obj\Debug\PlaylistByProchy.csproj.GenerateResource.cache
+C:\Users\nedyc\source\repos\PlaylistByProchy\PlaylistByProchy\obj\Debug\PlaylistByProchy.csproj.CoreCompileInputs.cache
+C:\Users\nedyc\source\repos\PlaylistByProchy\PlaylistByProchy\obj\Debug\PlaylistByProchy.exe
+C:\Users\nedyc\source\repos\PlaylistByProchy\PlaylistByProchy\obj\Debug\PlaylistByProchy.pdb
+C:\Users\nedyc\source\repos\PlaylistByProchy\PlaylistByProchy\obj\Debug\PlaylistByProchy.Form2.resources
