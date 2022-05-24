@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace PlaylistByProchy
@@ -9,10 +6,10 @@ namespace PlaylistByProchy
     internal static class Program
     {
         /// <summary>
-        /// Hlavní vstupní bod aplikace.
+        ///     Hlavní vstupní bod aplikace.
         /// </summary>
         [STAThread]
-        static void Main()
+        private static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);

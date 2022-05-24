@@ -1,18 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace PlaylistByProchy
 {
     public partial class Form2 : Form
     {
-        public Pisnicka Pisnicka { get; set; }
         public Form2(Pisnicka pisnicka)
         {
             InitializeComponent();
@@ -24,16 +16,17 @@ namespace PlaylistByProchy
             Pisnicka = pisnicka;
 
             dateTimePicker1.Value = DateTime.Now.Subtract(pisnicka.Stari);
-
         }
+
+        public Pisnicka Pisnicka { get; }
 
         private void button1_Click(object sender, EventArgs e)
         {
             Pisnicka.Nazev = textBox1.Text;
             Pisnicka.Autor = textBox2.Text;
             Pisnicka.Autor = textBox4.Text;
-            Pisnicka.Oblibenost = (int)numericUpDown1.Value;
-            Pisnicka.Delka = (int)numericUpDown2.Value;
+            Pisnicka.Oblibenost = (int) numericUpDown1.Value;
+            Pisnicka.Delka = (int) numericUpDown2.Value;
             Pisnicka.Stari = DateTime.Now - dateTimePicker1.Value;
             DialogResult = DialogResult.OK;
             Close();
